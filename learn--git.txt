@@ -8,4 +8,4 @@
 太多的话可以HEAD~100等。 回退命令 git reset--hard HEAD^,,如果这样被还原了，则git log 会显示
 最近的版本号已经消失，但并不是消失了，我们可以用 git reflog 命令来查看历史版本号，
 利用版本号的前五位代替HEAD及HEAD^等命令即可选择性回退。
-如何查看当前特制文件中的内容  命令：cat learn--git.txt。
+如何查看当前特制文件中的内容  命令：cat learn--git.txt。。。。
